@@ -2,6 +2,8 @@
 
 Aplicação feita em python e kivymd, para windows, linux, android e osx.
 
+<img src="prin.png"></img>
+
 #Requerimentos:
 
 Kivy==2.0.0
@@ -13,7 +15,7 @@ paramiko==2.7.2
 
 #Funcionalidades:
 
-Gerenciar usuários unix 
+Gerenciar usuários unix
 
 Gerenciar usuários smb
 
@@ -31,6 +33,3 @@ Gerenciar grupos LDAP
 
 
 #1408ac1c59ff8d2d4d4514ce1132aa5e3aa2cfe5  main.py
-
-
-<img src="prin.png"></img>
